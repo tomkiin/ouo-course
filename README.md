@@ -29,6 +29,7 @@
 -   持久层：mybatis plus
 -   session：springboot-session+redis
 -   日志：aop+mongodb
+-   权限控制：使用自定义注解和拦截器手写
 
 数据库
 
